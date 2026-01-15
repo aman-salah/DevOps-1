@@ -55,7 +55,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "react-app1"
+        IMAGE_NAME = "react-app2"
         CONTAINER_NAME = "laughing_swirles"
     }
 
